@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Tech",
+    "price": 25,
+    "image": "assets/images/shirt1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chaqueta Smart",
+    "price": 60,
+    "image": "assets/images/jacket1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gorra AI",
+    "price": 15,
+    "image": "assets/images/cap1.jpg"
+  }
+]
